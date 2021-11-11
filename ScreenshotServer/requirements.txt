@@ -1,0 +1,6 @@
+Flask==1.1.1
+matplotlib==3.3.4
+streamlink==2.0.0
+numpy==1.20.1
+opencv-python==4.5.1.48
+waitress==2.0.0
